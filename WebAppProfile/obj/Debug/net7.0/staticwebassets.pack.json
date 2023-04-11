@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebAppProfile.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebAppProfile.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\upload\\050accd4-9e01-44a4-b795-4314e6294bca_0-IMG-4022.JPG",
+      "PackagePath": "staticwebassets\\upload\\050accd4-9e01-44a4-b795-4314e6294bca_0-IMG-4022.JPG"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\upload\\074f9bf7-25c7-4e3a-acfc-b804a3591178_0-IMG-3978.JPG",
+      "PackagePath": "staticwebassets\\upload\\074f9bf7-25c7-4e3a-acfc-b804a3591178_0-IMG-3978.JPG"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\upload\\0c461233-6747-4b3e-a41c-3506eb3bf682_8-IMG-4009.JPG",
+      "PackagePath": "staticwebassets\\upload\\0c461233-6747-4b3e-a41c-3506eb3bf682_8-IMG-4009.JPG"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\upload\\2abc1df4-d5d1-4a4f-aa23-6942d8f85292_1-IMG-4033.JPG",
+      "PackagePath": "staticwebassets\\upload\\2abc1df4-d5d1-4a4f-aa23-6942d8f85292_1-IMG-4033.JPG"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\upload\\35219649-514e-4833-b3fb-28d8507b9618_0-IMG-3978.JPG",
+      "PackagePath": "staticwebassets\\upload\\35219649-514e-4833-b3fb-28d8507b9618_0-IMG-3978.JPG"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\upload\\51ccf3c9-e289-4753-bc08-a062b6239cdc_8-IMG-4020.JPG",
+      "PackagePath": "staticwebassets\\upload\\51ccf3c9-e289-4753-bc08-a062b6239cdc_8-IMG-4020.JPG"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\upload\\52c61994-223d-401b-80bc-9ea399d59af4_8-IMG-4009.JPG",
+      "PackagePath": "staticwebassets\\upload\\52c61994-223d-401b-80bc-9ea399d59af4_8-IMG-4009.JPG"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\upload\\619f9adf-ba35-4546-8cbc-8df8c0a06d52_8-IMG-4009.JPG",
+      "PackagePath": "staticwebassets\\upload\\619f9adf-ba35-4546-8cbc-8df8c0a06d52_8-IMG-4009.JPG"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\upload\\93349aba-fb29-423b-b2aa-7009658ba645_0-IMG-3978.JPG",
+      "PackagePath": "staticwebassets\\upload\\93349aba-fb29-423b-b2aa-7009658ba645_0-IMG-3978.JPG"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\upload\\a2d1d698-cbae-478d-8516-730854c3eca4_8-IMG-4009.JPG",
+      "PackagePath": "staticwebassets\\upload\\a2d1d698-cbae-478d-8516-730854c3eca4_8-IMG-4009.JPG"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\upload\\a4d6ce85-a2da-47cf-bcfd-746e9b4afc32_0-IMG-3978.JPG",
+      "PackagePath": "staticwebassets\\upload\\a4d6ce85-a2da-47cf-bcfd-746e9b4afc32_0-IMG-3978.JPG"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\upload\\ca168959-99d7-4192-a514-37630cf609de_0-IMG-3978.JPG",
+      "PackagePath": "staticwebassets\\upload\\ca168959-99d7-4192-a514-37630cf609de_0-IMG-3978.JPG"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\upload\\cddaa262-5ebb-40e4-a0d1-aae8940287ba_1-IMG-4033.JPG",
+      "PackagePath": "staticwebassets\\upload\\cddaa262-5ebb-40e4-a0d1-aae8940287ba_1-IMG-4033.JPG"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\upload\\e2e1e872-b9a8-42d9-b1f2-4225bb20ae9d_0-IMG-4054.JPG",
+      "PackagePath": "staticwebassets\\upload\\e2e1e872-b9a8-42d9-b1f2-4225bb20ae9d_0-IMG-4054.JPG"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\upload\\f081f154-3aa9-4964-9a4d-4829de0a0b31_0-IMG-3978.JPG",
+      "PackagePath": "staticwebassets\\upload\\f081f154-3aa9-4964-9a4d-4829de0a0b31_0-IMG-3978.JPG"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\upload\\f50a093d-0ac7-44b0-ac21-9b8c3edf5987_1-IMG-4033.JPG",
+      "PackagePath": "staticwebassets\\upload\\f50a093d-0ac7-44b0-ac21-9b8c3edf5987_1-IMG-4033.JPG"
+    },
+    {
+      "Id": "C:\\RapidCsharp\\WebAppProfile\\WebAppProfile\\wwwroot\\upload\\fea87a38-372b-4a16-941e-22456b6352ed_0-IMG-3978.JPG",
+      "PackagePath": "staticwebassets\\upload\\fea87a38-372b-4a16-941e-22456b6352ed_0-IMG-3978.JPG"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebAppProfile.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebAppProfile.props",
+      "PackagePath": "build\\WebAppProfile.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAppProfile.props",
+      "PackagePath": "buildMultiTargeting\\WebAppProfile.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebAppProfile.props",
+      "PackagePath": "buildTransitive\\WebAppProfile.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
